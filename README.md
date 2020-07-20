@@ -1,5 +1,6 @@
 # 🚧 Under Construction 🚧
 
+## For now, feel free to contact me at:
 ### Email: [mateowang.dev@gmail.com](mailto:mateowang.dev@gmail.com)
 ### GitHub: [@SwiftWinds](https://github.com/swiftwinds)
 ### Discord: [Freedom#0560](https://discord.com/channels/@me/150145140806254592)
